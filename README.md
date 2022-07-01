@@ -37,7 +37,7 @@ In this project users will be able to:
 
 ## My process💭
 
-This is a more complex project that I started by marking out initial structure,classes, and id's in HTML. Next I began styling the css by styling the cups, the remained, percentage classes. I then added functionality by way of JavaScript to switch count how many small cups were filled and use this result to determine the percentage of how much water was drank and how much the user has left to consume. I also added a feature that allows the user to uncheck a cup while keeping those that appear in the queue before it to stay selected.
+This is a more complex project that I started by marking out initial structure, classes, and id's in HTML. Next I began styling the css by styling the cups, the remained, percentage classes. I then added functionality by way of JavaScript to switch count how many small cups were filled and use this result to determine the percentage of how much water was drank and how much the user has left to consume. I also added a feature that allows the user to uncheck a cup while keeping those that appear in the queue before it to stay selected.
 
 ### Built with👷🏾‍♀️
 
